@@ -1,0 +1,26 @@
+h1{
+    color: darkblue;
+    padding-left: 30%;
+    padding-top: 0%;
+}
+
+p{
+    color: blue;
+}
+
+select {
+    background-color: antiquewhite;
+}
+select:hover {
+    color: antiquewhite;
+    background-color: cornflowerblue;
+}
+
+input {
+    background-color: skyblue;
+
+}
+
+input:hover {
+    background-color: cornflowerblue;
+}
