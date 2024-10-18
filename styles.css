@@ -17,10 +17,10 @@ select:hover {
 }
 
 input {
-    background-color: skyblue;
+    background-color: lightcoral;
 
 }
 
 input:hover {
-    background-color: cornflowerblue;
+    background-color: orchid;
 }
